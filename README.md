@@ -1,12 +1,11 @@
 Я специализируюсь на классическом машинном обучении, анализе данных и подготовке их к production-решениям. 
 
- **Алгоритмическая подготовка:**
-Активно решаю **NeetCode 150**. Фокусируюсь на качестве решений и умении объяснять логику (особый упор на Two Pointers, Binary Search, Trees).
+### Алгоритмическая база
+Я обучаюсь по роадмапу **NeetCode 150**, решая задачи в формате реального собеседования (с проговариванием Edge Cases и оценкой Time/Space Complexity).
 
-###  Мой прогресс на LeetCode / NeetCode:
-<a href="https://leetcode.com/GrimElemental448/">
-  <img src="https://leetcard.jacoblin.cool/GrimElemental448?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
-</a>
+*  **Прогресс:** Решено 40+ задач (преимущественно Medium).
+*  **Фокусные темы:** Two Pointers, Sliding Window, Binary Search, Trees.
+*  **Мой публичный профиль:** [NeetCode @GrimElemental448](https://neetcode.io/user/GrimElemental448) *(Ссылка на мой прогресс-трекер)*
 
 ###  Мой главный ML-проект:
 * [ US Accidents Severity Prediction](https://github.com/homyaksapiens/us-accidents-severity-prediction). Предсказание влияния ДТП на трафик с использованием CatBoost (борьба с дисбалансом классов, feature engineering, устранение data leakage).
