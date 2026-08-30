@@ -5,7 +5,7 @@
 
 *  **Прогресс:** Решено 40+ задач (преимущественно Medium).
 *  **Фокусные темы:** Two Pointers, Sliding Window, Binary Search, Trees.
-*  **Мой публичный профиль:** [NeetCode @GrimElemental448](https://neetcode.io/user/GrimElemental448) *(Ссылка на мой прогресс-трекер)*
+*  **Мой публичный профиль:** [NeetCode @GrimElemental448](https://neetcode.io/user/GrimElemental448) 
 
 ###  Мой главный ML-проект:
 * [ US Accidents Severity Prediction](https://github.com/homyaksapiens/us-accidents-severity-prediction). Предсказание влияния ДТП на трафик с использованием CatBoost (борьба с дисбалансом классов, feature engineering, устранение data leakage).
